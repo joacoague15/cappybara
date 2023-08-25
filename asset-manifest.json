@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cappybara/static/css/main.bb13caac.css",
+    "main.js": "/cappybara/static/js/main.3e435810.js",
+    "static/media/capybara_dummy.jpg": "/cappybara/static/media/capybara_dummy.a126fc1588e44f1c3ffc.jpg",
+    "static/media/hat1.jpg": "/cappybara/static/media/hat1.a53485165f084c568f9c.jpg",
+    "static/media/hat2.jpg": "/cappybara/static/media/hat2.18ba850eef185818c845.jpg",
+    "static/media/hat4.jpg": "/cappybara/static/media/hat4.331bdccb08b5a721ca35.jpg",
+    "static/media/hat3.jpg": "/cappybara/static/media/hat3.f22ac2e6c8aaebb7afa3.jpg",
+    "index.html": "/cappybara/index.html",
+    "main.bb13caac.css.map": "/cappybara/static/css/main.bb13caac.css.map",
+    "main.3e435810.js.map": "/cappybara/static/js/main.3e435810.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb13caac.css",
+    "static/js/main.3e435810.js"
+  ]
+}
