@@ -60,6 +60,7 @@ function App() {
                 {/*    <button className="selection-arrow">&gt;</button>*/}
                 {/*</div>*/}
             </div>
+            <button id="submit-capybara"><b>Vestir carpincho</b></button>
         </div>
     </div>
   );
